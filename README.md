@@ -10,8 +10,8 @@
 
 ## 🛠️ Current Focus
 - Designing and implementing analytical pipelines for collaborative projects
-- Integrative analysis and visualization of complex, multi-modal epigenomics and transcriptomics data
-- Mainly focused on Cut&Run, and ChIP-seq, and ATAC-seq data analysis.
+- Integrative analysis and visualization of complex epigenomics and transcriptomics data
+- Mainly focused on Cut&Run, ChIP-seq, and ATAC-seq data analysis.
 
 ## 🔗 Previous Work (GitLab)
 - **Contributor to [sc_framework](https://gitlab.gwdg.de/loosolab/software/sc_framework) at Loosolab, Max Planck Institute for Heart and Lung Research (2021–2024)**
